@@ -19,4 +19,4 @@ Python, XGBoost, SHAP, Scikit-learn, Streamlit, Pandas, NumPy
 - Funding duration, days to first funding
 
 ## 🚀 Live Demo
-[Click here to try the app]()
+[Click here to try the app](https://startup-success-predictor-gt794ctbxinbtaleqyfxy2.streamlit.app/)
